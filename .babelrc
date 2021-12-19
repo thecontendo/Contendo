@@ -1,0 +1,32 @@
+{
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "root": ["./src"],
+        "alias": {
+          "assets": "./src/assets",
+          "components": "./src/components",
+          "molecules": "./src/components/molecules",
+          "atoms": "./src/components/atoms",
+          "compounds": "./src/components/compounds",
+          "constant": "./src/constant",
+          "data": "./src/data",
+          "styles": "./src/styles",
+          "screens": "./src/screens",
+          "navigation": "./src/navigation",
+          "types": "./src/types",
+          "i18n": "./src/i18n",
+          "utils": "./src/utils",
+          "env": "./src/env",
+          "interfaces": "./src/interfaces",
+          "app-interface": "./src/app-interface",
+          "fonts": "./src/fonts",
+          "redux-store": "./src/redux-store",
+          "services": "./src/services",
+          "enums": "./src/enums"
+        }
+      }
+    ]
+  ]
+}

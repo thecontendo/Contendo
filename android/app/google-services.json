@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1005548283958",
+    "project_id": "the-contendo",
+    "storage_bucket": "the-contendo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005548283958:android:9efbc14c9893f4c8add097",
+        "android_client_info": {
+          "package_name": "com.contendo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005548283958-3gj781e21bii573q7tssc8blqchl6i2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.contendo",
+            "certificate_hash": "bb6d4ab62998a180e1df46c5b9b9c071fc970e1c"
+          }
+        },
+        {
+          "client_id": "1005548283958-af7r3hg2ragsgebmvbi61q5ajqnne5ag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.contendo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1005548283958-qrmiil0aeit55otvjca9anebe6c42sdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdNwuZQaejSxHtG_redghF0vGuy1UPOk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005548283958-qrmiil0aeit55otvjca9anebe6c42sdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
